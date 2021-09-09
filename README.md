@@ -10,4 +10,4 @@
       - AVD실행
       - Toast 알림 출력
       
-<img width="300"  height="300" scr="./png/강아지.jpg"></img>
+<img width="300"  height="300" src="./png/dog.jpg"></img>
