@@ -50,6 +50,5 @@
 
 ## 6주차 과제
 <img width="" height="" src="./png/이미지바꾸기.PNG"></img>
-<img width="" height="" src="./png/이넓이.PNG"></img>
-
+<img width="" height="" src="./png/넓이.PNG"></img>
 <img width="" height="" src="./png/높이.PNG"></img>
