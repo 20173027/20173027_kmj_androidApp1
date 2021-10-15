@@ -54,5 +54,6 @@
 <img width="" height="" src="./png/이미지바꾸기.PNG"></img>
 
 ## 7주차 과제
-<img width="" height="" src="./png/미션.PNG"></img>
+<img width="" height="" src="./png/미션.PNG"></img>   
+
 [7주차 소스코드](https://github.com/20173027/20173027_kmj_androidApp1/edit/main/project/week7.md)
