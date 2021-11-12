@@ -63,8 +63,8 @@
 
 ## 10주차과제
 
-<img width="" height="" src="./png/11_1.PNG"></img>
-<img width="" height="" src="./png/11_2.PNG"></img>
+<img width="" height="" src="./png/10_1.PNG"></img>
+<img width="" height="" src="./png/10_2.PNG"></img>
 
 ## 11주차과제
 
