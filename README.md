@@ -73,4 +73,4 @@
 
 ## 13주차과제
 
-<img width="" height="" src="./png/13주.PNG"></img>
+<img width="" height="" src="./png/13week.PNG"></img>
